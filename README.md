@@ -24,7 +24,8 @@ ffmpeg -r 20 -i frame%d.png -pix_fmt yuv420p task02_video.mp4
 
 ### Outcome:
 A video file was successfully created from the input frames, demonstrating the process of frame-to-video conversion using FFmpeg.
-### Outcome:
+
+### Output:
 myvideo.mp4
 
 ## Task 03: Audio Integration with Video
