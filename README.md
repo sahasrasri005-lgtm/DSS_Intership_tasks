@@ -1,4 +1,4 @@
-# DSS_Intership_tasks
+# DSS_IIITH_Intership_tasks
 # Internship Tasks
 
 ## Task 01: Frame Generation
